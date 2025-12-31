@@ -1,3 +1,6 @@
+
+🚀 Focused on building fast, clean, and maintainable Next.js applications
+
 # 💫 About Me:
 🛠️ Building full-stack web apps with Next.js (mainly) & React  <br>🛠️ Improving Linux workflows and system performance on Ubuntu  <br><br>🤝 Looking to collaborate on open-source JavaScript & Next.js projects  <br>🤝 Developer tools, dashboards, and productivity apps  <br><br>🆘 Looking for help with system design & scalable backend architecture  <br>🆘 Advanced Linux internals and shell scripting  <br><br>🌱 Currently learning advanced Next.js patterns & performance optimization  <br>🌱 Docker, CI/CD pipelines, and DevOps basics  <br>🌱 Clean code & software architecture principles  <br><br>💬 Ask me about Next.js, React, Linux & Ubuntu customization  <br>💬 Fixing weird bugs and performance issues 😄  <br><br>⚡ Fun fact: I break my system just to learn how to fix it<br>
 
